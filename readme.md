@@ -3,8 +3,8 @@ This repository contains an analysis of the US State of the Union addresses from
 
 # Dataset
 The analysis is based on two datasets:
-[US State of the Union Addresses (1790-2019)](https://www.kaggle.com/datasets/jyronw/us-state-of-the-union-addresses-1790-2019)
-[US Presidents](https://www.kaggle.com/datasets/harshitagpt/us-presidents)
+1. [US State of the Union Addresses (1790-2019)](https://www.kaggle.com/datasets/jyronw/us-state-of-the-union-addresses-1790-2019)
+2. [US Presidents](https://www.kaggle.com/datasets/harshitagpt/us-presidents)
 
 # Methodology
 The analysis was carried out using the following steps:
